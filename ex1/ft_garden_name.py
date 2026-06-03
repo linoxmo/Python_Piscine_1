@@ -2,7 +2,6 @@ def ft_garden_name():
     print("Enter garden name: ", end = "")
     char = input()
     print("Garden: ", char)
-    print (char)
     print("Status: Growing well!")
 """
 if __name__ == '__main__':
